@@ -1,5 +1,7 @@
 # Homebrew 套件管理軟體
 
+![Homebrew OS X 缺少的套件管理工具](http://i.imgur.com/taFP7Vj.png)
+
 ## 說明
 
 OSX 套件管理軟體，常常在安裝不同版本的軟體時，可能會造成不同軟體上的衝突，而 Homebrew 可以幫助你管理這些不同軟體之間的相依性問題。
