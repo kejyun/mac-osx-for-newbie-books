@@ -1,4 +1,4 @@
-# Homebrew
+# Homebrew 套件管理軟體
 
 ## 說明
 
