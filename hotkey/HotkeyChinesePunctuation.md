@@ -67,3 +67,4 @@
 
 * [Mac新手筆記0005：如何快速在mac輸入全形標點符號和空格](http://yichenju.blogspot.tw/2014/05/mac0005.html)
 * [Mac OS X 10.5：中文輸入法鍵盤快速鍵](http://support.apple.com/zh-tw/HT3560)
+* [不用再問怎麼打，Mac 標點符號超快輸入學習方式！](http://appleuser.com/2014/05/24/mini-keyboard/)

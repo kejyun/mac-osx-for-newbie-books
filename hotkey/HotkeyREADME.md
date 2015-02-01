@@ -6,8 +6,20 @@
 
 ### `Command（⌘）`
 
-![command](http://i.imgur.com/wgfreOT.png)
+![Command（⌘）](http://i.imgur.com/wgfreOT.png)
 
-### `Option`
+### `Option（⌥）`
 
-![command](http://i.imgur.com/jA25uQM.png)
+![Option（⌥）](http://i.imgur.com/jA25uQM.png)
+
+### `Control（⌃）`
+
+![Control（⌃）](http://i.imgur.com/w3a4KDY.png)
+
+### `Shift（⇧）`
+
+![Shift（⇧）](http://i.imgur.com/yRapiwB.png)
+
+### `Capslock（⇪）`
+
+![Capslock（⇪）](http://i.imgur.com/EgWYth4.png)
