@@ -6,7 +6,7 @@
 
 > `Command（⌘）`+`shift`+`3`
 
-![擷取完整畫面](http://i.imgur.com/qQSzn37.png)
+![擷取完整畫面](http://i.imgur.com/nqT4hjr.png)
 
 ## 擷取部份畫面
 
@@ -14,7 +14,7 @@
 
 > 用滑鼠選擇你要擷取的畫面大小
 
-![擷取部份畫面](http://i.imgur.com/upYVC02.png)
+![擷取部份畫面](http://i.imgur.com/Iwmh6yS.png)
 
 
 ## 擷取整個視窗（有陰影）
