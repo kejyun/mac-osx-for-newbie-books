@@ -52,7 +52,7 @@
 
 > `Command（⌘）`+`⇒（方向鍵向右）`
 
-`Windows` 的 `End` 功能⋯⋯
+`Windows` 的 `End` 功能
 
 ## 移到文件最上方
 
