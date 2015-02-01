@@ -4,10 +4,10 @@
 
 ## 按鍵說明
 
-### `command`
+### `Command（⌘）`
 
 ![command](http://i.imgur.com/wgfreOT.png)
 
-### `option`
+### `Option`
 
 ![command](http://i.imgur.com/jA25uQM.png)

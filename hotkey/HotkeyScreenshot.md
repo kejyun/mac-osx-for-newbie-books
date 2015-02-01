@@ -4,13 +4,13 @@
 
 ## 擷取完整畫面
 
-> `command`+`shift`+`3`
+> `Command（⌘）`+`shift`+`3`
 
 ![擷取完整畫面](http://i.imgur.com/qQSzn37.png)
 
 ## 擷取部份畫面
 
-> `command`+`shift`+`4`
+> `Command（⌘）`+`shift`+`4`
 
 > 用滑鼠選擇你要擷取的畫面大小
 
@@ -19,7 +19,7 @@
 
 ## 擷取整個視窗（有陰影）
 
-> `command`+`shift`+`4`+`空白鍵`
+> `Command（⌘）`+`shift`+`4`+`空白鍵`
 
 > 選擇要擷取的視窗
 
@@ -27,8 +27,8 @@
 
 ## 擷取整個視窗（無陰影）
 
-> `command`+`shift`+`4`+`空白鍵`
+> `Command（⌘）`+`shift`+`4`+`空白鍵`
 
-> `option` + 選擇要擷取的視窗
+> `Option` + 選擇要擷取的視窗
 
 ![擷取整個視窗（無陰影）](http://i.imgur.com/VOw3OYy.png)
