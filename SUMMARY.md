@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [常見問題](qanda/QAndAREADME.md)
+  * [無法打開"xxx"，因為它來自未識別的開發者](qanda/QAndAUnknownAppDeveloper.md)
 * [快捷鍵](hotkey/HotkeyREADME.md)
   * [截圖](hotkey/HotkeyScreenshot.md)
   * [標籤頁](hotkey/HotkeyTab.md)
@@ -14,3 +16,7 @@
     * [活動監視器](software/SoftwareActivityMoniter.md)
   * [編輯器](software/SoftwareEditorREADME.md)
     * [Sublime](software/SoftwareEditorSublime.md)
+  * [繪圖](software/SoftwareDrawREADME.md)
+    * [Evolus Pencil](software/SoftwareDrawEvolusPencil.md)
+  * [資料庫](software/SoftwareDatabaseREADME.md)
+    * [Sequel Pro](software/SoftwareDatabaseSequelPro.md)
