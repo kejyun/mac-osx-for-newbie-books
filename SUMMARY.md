@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [常見問題](qanda/QAndAREADME.md)
+  * [安裝軟體](qanda/QAndAInstallSoftware.md)
   * [無法打開"xxx"，因為它來自未識別的開發者](qanda/QAndAUnknownAppDeveloper.md)
 * [快捷鍵](hotkey/HotkeyREADME.md)
   * [截圖](hotkey/HotkeyScreenshot.md)
