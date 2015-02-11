@@ -140,3 +140,8 @@ $ source ~/.bash_profile
 ### 剪貼簿（存取過去輸入過的指令）
 
 > `Command（⌘）` + `shift` + `H`
+
+
+## 參考資料
+* (Documentation - iTerm2 - Mac OS Terminal Replacement)[http://iterm2.com/documentation.html]
+* (Jedi Linuxer: iTerm2 設定與常用快捷鍵)[http://chimerhapsody.blogspot.tw/2013/08/iterm2.html]
