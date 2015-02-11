@@ -17,6 +17,8 @@
     * [活動監視器](software/SoftwareActivityMoniter.md)
   * [編輯器](software/SoftwareEditorREADME.md)
     * [Sublime](software/SoftwareEditorSublime.md)
+  * [工具](software/SoftwareToolREADME.md)
+    * [iTerm2](software/SoftwareTooliTerm.md)
   * [繪圖](software/SoftwareDrawREADME.md)
     * [Evolus Pencil](software/SoftwareDrawEvolusPencil.md)
   * [資料庫](software/SoftwareDatabaseREADME.md)
