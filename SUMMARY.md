@@ -1,4 +1,4 @@
-# Summary
+# 摘要
 
 * [介紹](README.md)
 * [常見問題](qanda/QAndAREADME.md)
@@ -22,8 +22,9 @@
     * [iTerm2](software/SoftwareTooliTerm.md)
   * [繪圖](software/SoftwareDrawREADME.md)
     * [Evolus Pencil](software/SoftwareDrawEvolusPencil.md)
-    * [其他](software/SoftwareDrawOthers.md) 
+    * [其他](software/SoftwareDrawOthers.md)
   * [資料庫](software/SoftwareDatabaseREADME.md)
     * [Sequel Pro](software/SoftwareDatabaseSequelPro.md)
   * [Web Developer](software/softwareWebDeveloperREADME.md)
     * [Node.js](software/softwareWebDeveloperNodeJS.md)
+* [資源](resource/ResourceREADME.md)
