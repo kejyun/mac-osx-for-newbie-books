@@ -12,6 +12,8 @@
   * [系統](hotkey/HotkeySystem.md)
   * [終端機](hotkey/HotkeyTerminal.md)
   * [中文全形標點符號](hotkey/HotkeyChinesePunctuation.md)
+* [網路](network/networkREADME.md)
+  * [連線網路磁碟機](network/network-smb-connect-file-service.md)
 * [進階](advence/advenceREADME.md)
   * [變更截圖路徑](advence/advenceChangeScreenshotDirectory.md)
 * [常用軟體](software/SoftwareREADME.md)
