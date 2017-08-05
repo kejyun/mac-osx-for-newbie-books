@@ -1,8 +1,18 @@
 {
-  "plugins": ["disqus"],
+  "plugins": ["disqus","ga", "adsense"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "kejyun-osx-for-newbie"
+    },
+    "ga": {
+      "token": "UA-104093356-1"
+    },
+    "adsense": {
+        "client": "ca-pub-1990193713845546",
+        "slot": "2858259611",
+        "format": "auto",
+        "element": ".page-inner section",
+        "position": "top"
     }
   }
 }
