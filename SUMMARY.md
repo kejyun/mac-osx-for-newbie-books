@@ -33,5 +33,5 @@
         * [Sequel Pro](software/SoftwareDatabaseSequelPro.md)
     * [Web Developer](software/softwareWebDeveloperREADME.md)
         * [Node.js](software/softwareWebDeveloperNodeJS.md)
-    * [影片](software/video/README.md)
+    * [影片](software/video/VideoREADME.md)
 * [資源](resource/ResourceREADME.md)
