@@ -34,4 +34,6 @@
     * [Web Developer](software/softwareWebDeveloperREADME.md)
         * [Node.js](software/softwareWebDeveloperNodeJS.md)
     * [影片](software/video/VideoREADME.md)
+* [故障排除](troubleshooting/troubleshooting-README.md)
+    * [記憶卡無法 mount](troubleshooting/troubleshooting-disk-not-allow-mount.md)
 * [資源](resource/ResourceREADME.md)
